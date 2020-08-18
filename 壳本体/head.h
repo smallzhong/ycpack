@@ -6,7 +6,7 @@
 #include <windows.h>
 
 #include <iostream>
-
+#pragma comment( linker, "/subsystem:\"windows\" /entry:\"mainCRTStartup\"" )
 using namespace std;
 //#pragma warning(disable : 4996)
 //#pragma warning(disable : 6031) // 忽略警告"返回值被忽略: “getchar”"
