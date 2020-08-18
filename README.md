@@ -41,7 +41,7 @@ XP系统 + VC6
 
 **注：只支持给32位程序加壳，不能给64位程序加壳！**
 
-+ 将加壳机和壳本体编译出来（或者在 [**release**](https://github.com/smallzhong/ycpack/releases) 中下载已经编译好的EXE），其中 **packer.exe** 是加壳机， **ycpack_shell.exe** 是壳本体双击加壳机输入壳本体和需要加壳的源程序的位置，并输入需要保存的位置即可生成加壳后的程序。
++ 将加壳机和壳本体编译出来（或者在 [**release**](https://github.com/smallzhong/ycpack/releases) 中下载已经编译好的EXE），其中 **packer.exe** 是加壳机， **ycpack_shell.exe** 是壳本体。双击加壳机输入壳本体和需要加壳的源程序的位置，并输入需要保存的位置即可生成加壳后的程序。
 
 ![image-20200818204950233](https://raw.githubusercontent.com/smallzhong/picgo-pic-bed/master/image-20200818204950233.png)
 
