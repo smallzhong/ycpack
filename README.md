@@ -43,11 +43,11 @@ XP系统 + VC6
 
 + 将加壳机和壳本体编译出来（或者在 [**release**](https://github.com/smallzhong/ycpack/releases) 中下载已经编译好的EXE），其中 **packer.exe** 是加壳机， **ycpack_shell.exe** 是壳本体。双击加壳机输入壳本体和需要加壳的源程序的位置，并输入需要保存的位置即可生成加壳后的程序。
 
-![看不见图片请爬梯子](https://raw.githubusercontent.com/smallzhong/picgo-pic-bed/master/image-20200818204950233.png)
+![看不见图片请爬梯子](https://cdn.jsdelivr.net/gh/smallzhong/picgo-pic-bed@master/image-20200818204950233.png)
 
 + 加壳后可正常运行。
 
-![看不见图片请爬梯子](https://raw.githubusercontent.com/smallzhong/picgo-pic-bed/master/image-20200818205007366.png)
+![看不见图片请爬梯子](https://cdn.jsdelivr.net/gh/smallzhong/picgo-pic-bed@master/image-20200818205007366.png)
 
 ## 待完成功能
 
