@@ -1,6 +1,13 @@
 # ycpack
  傀儡进程加密壳 滴水三期课后作业
 
+## 代码下载
+
+考虑到国内git clone非常缓慢，我将代码传了一份在百度网盘上，如果通过github无法成功下载代码可以使用百度网盘下载，压缩包一共32kb大小。
+
+链接：https://pan.baidu.com/s/1MWxS-vE1jL7VJ6o_SKPHew 
+提取码：1111 
+
 ## 项目说明
 
 + 本项目是[滴水三期视频](https://www.bilibili.com/video/BV1yt41127Cd)的一个课后作业，是使用 **傀儡进程** 方法写的一个 **玩具** 壳
